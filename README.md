@@ -17,7 +17,7 @@ For more context you can read our initial [announcment post on Google'S OSS blog
 
 ## Highlights
 
-- Available as a Python command line, a Python API, and an experimental TFJS version (which powers our [web demo](https://google.github.io/magika/)).
+- Available as a Python command line, a Python API, and an experimental TFJS version (which powers our [web demo](https://google.github.io/magika/))
 - Trained on a dataset of over 25M files across more than 100 content types.
 - On our evaluation, Magika achieves 99%+ average precision and recall, outperforming existing approaches.
 - More than 100 content types (see [full list](./docs/supported-content-types-list.md)).
